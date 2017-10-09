@@ -6,6 +6,7 @@ We'd like to build a generic angular upgrade component, so we'll be able use a s
 
 1. npm install
 2. npm start
+3. goto http://localhost:4200/
 
 ## What to check
 
