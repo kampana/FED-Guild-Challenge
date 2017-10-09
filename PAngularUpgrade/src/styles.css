@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "assets/app.animations.css";
+@import "assets/app.css";
+
+main {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+#entry-point {
+    background-color: aqua;
+    padding: 20px
+}
+
+#angular-upgrade {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px    
+}
